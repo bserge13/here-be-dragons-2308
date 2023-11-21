@@ -1,4 +1,4 @@
-require 'awesome_print'
+require 'rspec'
 
 class Nytimes
   DATA = {
